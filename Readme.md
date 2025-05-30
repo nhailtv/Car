@@ -17,7 +17,7 @@ sudo apt install -y python3-picamera2
 python3 -m venv venv
 
 git clone https://github.com/ultralytics/yolov5.git
-git clone https://github.com/anhtp22it/self-driving-car
+git clone https://github.com/nhailtv/Car
 
 python3 -m venv --system-site-packages ~/Desktop/car/venv
 sudo apt install -y libqt5gui5 libqt5core5a
